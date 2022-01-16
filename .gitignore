@@ -493,7 +493,6 @@ proprietary/vendor/bin/ta_qmi_service
 proprietary/vendor/bin/tftp_server
 proprietary/vendor/bin/thermal-engine
 proprietary/vendor/bin/time_daemon
-proprietary/vendor/bin/wvkbd
 proprietary/vendor/camera/CHI08BS0/color_ctrl.dat
 proprietary/vendor/camera/CHI08BS0/dataflow.dat
 proprietary/vendor/camera/CHI08BS0/exposure_ctrl.dat
